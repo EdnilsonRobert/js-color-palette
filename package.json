@@ -1,0 +1,22 @@
+{
+  "name": "js-color-palette",
+  "version": "0.0.1",
+  "description": "Geração de paleta de cores HSL, RGB e HEX com Javascript",
+  "main": "palette.js",
+  "scripts": {
+    "dev": "http-server -a localhost -p 3000 -c-1 -o"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EdnilsonRobert/js-color-palette.git"
+  },
+  "author": "EdnilsonRobert <frontend@ednilsonrobert.dev>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/EdnilsonRobert/js-color-palette/issues"
+  },
+  "homepage": "https://github.com/EdnilsonRobert/js-color-palette#readme",
+  "devDependencies": {
+    "http-server": "^0.11.1"
+  }
+}
